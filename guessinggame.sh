@@ -22,4 +22,4 @@ do
 done
 
 echo "Well done! It is the correct answer, here is the list of files:"
-echo "---" && ls -1
+echo "---" && ls -l
