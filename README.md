@@ -5,4 +5,4 @@
 
 **Make date**: on may 29 03:23:16 +07 2019
 
-**Number of lines in guessinggame.sh:** 26
+**Number of lines in guessinggame.sh:** 25
